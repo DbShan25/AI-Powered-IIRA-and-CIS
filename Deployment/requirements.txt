@@ -8,3 +8,4 @@ wordcloud
 transformers
 torch
 sentencepiece
+pdfplumber
