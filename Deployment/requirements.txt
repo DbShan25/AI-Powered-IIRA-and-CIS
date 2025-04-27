@@ -18,3 +18,7 @@ textblob
 tensorflow
 transformers
 sentence-transformers
+torch
+langdetect
+requests
+deep-translator
