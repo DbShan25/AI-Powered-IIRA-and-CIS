@@ -22,3 +22,4 @@ torch
 langdetect
 requests
 deep-translator
+spacy
