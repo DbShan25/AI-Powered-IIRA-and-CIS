@@ -10,3 +10,11 @@ torch
 sentencepiece
 pdfplumber
 python-docx
+seaborn
+scikit-learn
+imblearn
+googletrans==4.0.0-rc1
+textblob
+tensorflow
+transformers
+sentence-transformers
